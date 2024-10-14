@@ -13,16 +13,39 @@ To run this project, you need to have the following libraries installed:
 
 tensorflow
 
+```bash
+pip install tensorflow
+```
+
 keras
+
+```bash
+pip install keras
+```
 
 numpy
 
+```bash
+pip install numpy
+```
+
 pandas
+
+```bash
+pip install pandas
+```
 
 opencv-python
 
+```bash
+pip install opencv-python
+```
+
 matplotlib
 
+```bash
+pip install matplotlib
+```
 
 ## Running the project
 
