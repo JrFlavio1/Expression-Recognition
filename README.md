@@ -49,7 +49,7 @@ pip install matplotlib
 
 ## Running the project
 
-Download the dataset and change the PATH in the Dataset section to the path of the train and test directories.
+Download the FER2013 dataset and change the PATH in the Dataset section to the correct directories (train_dir and test_dir paths).
 
 ## Testing
 
