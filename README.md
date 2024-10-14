@@ -12,11 +12,17 @@ https://www.kaggle.com/datasets/msambare/fer2013
 To run this project, you need to have the following libraries installed:
 
 tensorflow
+
 keras
+
 numpy
+
 pandas
+
 opencv-python
+
 matplotlib
+
 
 ## Running the project
 
