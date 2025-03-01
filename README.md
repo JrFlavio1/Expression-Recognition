@@ -47,6 +47,8 @@ matplotlib
 pip install matplotlib
 ```
 
+scikit-learn
+
 ```bash
 pip install scikit-learn
 ```
